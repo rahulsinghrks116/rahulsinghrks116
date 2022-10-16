@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul SIngh
-- 👀 I’m interested in Codind
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java Along with DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rahulsinghrks116@gmail.com
