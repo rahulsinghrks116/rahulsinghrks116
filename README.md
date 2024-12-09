@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rahul SIngh
 - 👀 I’m interested in Coding
-- 🌱 I’m fronted web developer and currently learning full stack web development and Java Along with DSA
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m fronted web developer and currently working in wipro as an Associate Software engineer
 - 📫 How to reach me rahulsinghrks116@gmail.com
 
 <!---
